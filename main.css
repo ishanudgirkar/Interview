@@ -2,13 +2,3 @@ body{
     text-align: center;
 }
 
-button{
-    display: block;
-    margin: auto;
-    margin-bottom: 1rem;
-}
-
-#output{
-    margin-top: 1rem;
-}
-
